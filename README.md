@@ -1,6 +1,8 @@
 # Loan_Status_Prediction
 
 link on Kaggle : https://www.kaggle.com/datasets/ninzaami/loan-predication
+
+
 Among all industries, insurance domain has the largest use of analytics & data science methods. This data set would provide you enough taste of working on data sets from insurance companies, what challenges are faced, what strategies are used, which variables influence the outcome etc. This is a classification problem. The data has 615 rows and 13 columns.
 
 Problem-----
